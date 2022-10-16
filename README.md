@@ -2,12 +2,12 @@
 Just a student passionate about computer science and machine learning.<br>I am into scientific oriented programming and love building logics.<br><br>🔭  I’m currently working on react and web dev to show case my projects, perlin noise and procedural generation, library for neural networks using numpy<br>🌱 I’m currently learning React, Django, Random value generation.<br>💬 Ask me about Neural Networks, Python, PyQt5 and tkinter UI, numpy.<br>⚡ Fun fact If you ask me about a topic i am interested in, we will talk for hours and probably drifted away into other topics.
 
 _**Maintainer**_ of open source project:
-  > [NPerlinNoise](https://pypi.org/project/NPerlinNoise/) A robust open source implementation of Perlin Noise Algorithm for N-Dimensions in Python
+  > [nPerlinNoise](https://pypi.org/project/NPerlinNoise/) A robust open source implementation of Perlin Noise Algorithm for N-Dimensions in Python
 
 _**Project Highlights**_:
 - [3D ENGINE](https://github.com/Amith225/3D-ENGINE)
 - [Neural Networks](https://github.com/Amith225/NeuralNetworksAndTopologies)
-- [N Perlin Noise](https://github.com/Amith225/NPerlinNoise/)
+- [nPerlinNoise](https://github.com/Amith225/NPerlinNoise/)
 
 
 ## 🌐 Socials:
