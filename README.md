@@ -6,11 +6,10 @@ _**Maintainer**_ of open source project:
   > [baby-chain](https://github.com/Wysteriya/baby-chain) Simple and Complete Starter and API for blockchain in golang
 
 _**Project Highlights**_:
-- [3D-ENGINE](https://github.com/Amith225/3D-ENGINE)
-- [NeuralNetworksAndTopologies](https://github.com/Amith225/NeuralNetworksAndTopologies)
-- [nPerlinNoise](https://github.com/Amith225/NPerlinNoise/)
-- [baby-chain](https://github.com/Wysteriya/baby-chain)
-- [wordMafia](https://github.com/Amith225/wordMafia)
+- [3D-ENGINE](https://github.com/Amith225/3D-ENGINE) A python library which can be used for 3D modelling and rendering
+- [NeuralNetworksAndTopologies](https://github.com/Amith225/NeuralNetworksAndTopologies) A simple yet robust implimentation of Artificial Neural Networks
+- [wordMafia](https://github.com/Amith225/wordMafia) A Command-Line and Gui implimentation of the game "WORDLE"
+- [RITScraping](https://github.com/Amith225/RITScraping) Scripts to scrape data from my college(MSRIT)'s portal
 
 
 ## 🌐 Socials:
@@ -25,14 +24,11 @@ _**Project Highlights**_:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
