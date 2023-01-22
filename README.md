@@ -5,9 +5,11 @@ _**Maintainer**_ of open source project:
   > [nPerlinNoise](https://pypi.org/project/NPerlinNoise/) A robust open source implementation of Perlin Noise Algorithm for N-Dimensions in Python
 
 _**Project Highlights**_:
-- [3D ENGINE](https://github.com/Amith225/3D-ENGINE)
-- [Neural Networks](https://github.com/Amith225/NeuralNetworksAndTopologies)
+- [3D-ENGINE](https://github.com/Amith225/3D-ENGINE)
+- [NeuralNetworksAndTopologies](https://github.com/Amith225/NeuralNetworksAndTopologies)
 - [nPerlinNoise](https://github.com/Amith225/NPerlinNoise/)
+- [baby-chain](https://github.com/Wysteriya/baby-chain)
+- [wordMafia](https://github.com/Amith225/wordMafia)
 
 
 ## 🌐 Socials:
